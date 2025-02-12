@@ -1,34 +1,16 @@
 class Solution {
     public int countGoodSubstrings(String s) {
-        HashMap<Character,Integer> hm = new HashMap<>();
-        
-        int i = 0 , j = 0;
         int cnt = 0;
-
-        while(j < 3 && j < s.length()){
-
-            char ch = s.charAt(j);
-            hm.put(ch , hm.getOrDefault(ch , 0) + 1);
-            j++;
-        }
-
-        if(hm.size() == 3) cnt++;
-
-        while(j < s.length() ){
-
-            char ch = s.charAt(i);
-            hm.put(ch , hm.get(ch) - 1);
-            if(hm.get(ch) == 0){
-                hm.remove(ch);
+        
+        // Use a sliding window approach
+        for (int i = 0; i <= s.length() - 3; i++) {
+            String sub = s.substring(i, i + 3);  // Get a substring of length 3
+            // Check if all characters in the substring are unique
+            if (sub.charAt(0) != sub.charAt(1) && sub.charAt(0) != sub.charAt(2) && sub.charAt(1) != sub.charAt(2)) {
+                cnt++;  // Count the substring if all characters are unique
             }
-            i++;
-
-            char ch2 = s.charAt(j);
-            hm.put(ch2 , hm.getOrDefault(ch2 , 0) + 1);
-            j++;
-
-            if(hm.size() == 3) cnt++;
         }
+        
         return cnt;
     }
 }
