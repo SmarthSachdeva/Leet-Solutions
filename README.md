@@ -13,8 +13,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/SmarthSachdeva/Leet-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/SmarthSachdeva/Leet-Solutions/tree/master/0940-fruit-into-baskets) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/SmarthSachdeva/Leet-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Hash Table
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/SmarthSachdeva/Leet-Solutions/tree/master/0940-fruit-into-baskets) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/SmarthSachdeva/Leet-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+## String
+|  |
+| ------- |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/SmarthSachdeva/Leet-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+## Counting
+|  |
+| ------- |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/SmarthSachdeva/Leet-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
