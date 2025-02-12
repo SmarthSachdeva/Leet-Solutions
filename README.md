@@ -7,8 +7,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/SmarthSachdeva/Leet-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0940-fruit-into-baskets](https://github.com/SmarthSachdeva/Leet-Solutions/tree/master/0940-fruit-into-baskets) |
 ## Sliding Window
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/SmarthSachdeva/Leet-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0940-fruit-into-baskets](https://github.com/SmarthSachdeva/Leet-Solutions/tree/master/0940-fruit-into-baskets) |
+## Hash Table
+|  |
+| ------- |
+| [0940-fruit-into-baskets](https://github.com/SmarthSachdeva/Leet-Solutions/tree/master/0940-fruit-into-baskets) |
 <!---LeetCode Topics End-->
