@@ -27,4 +27,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/SmarthSachdeva/Leet-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/SmarthSachdeva/Leet-Solutions/tree/master/0069-sqrtx) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/SmarthSachdeva/Leet-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
